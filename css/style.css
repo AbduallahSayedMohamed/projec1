@@ -649,7 +649,7 @@ height: 90vh;
     margin-top: 40px;
     border-radius: 12px;
     z-index: 2;
-    postion:absolute
+    position: absolute;
 }
 .content-table:hover .bnt-table{
     background-color: white;
