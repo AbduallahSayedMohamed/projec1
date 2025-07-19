@@ -135,6 +135,7 @@ a::after{
    width:120px;
    height: 5px;
    transition: 1s;
+     left: 15px;
 }
 
     
@@ -648,6 +649,7 @@ height: 90vh;
     margin-top: 40px;
     border-radius: 12px;
     z-index: 2;
+    postion:absolute
 }
 .content-table:hover .bnt-table{
     background-color: white;
